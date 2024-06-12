@@ -11,7 +11,46 @@ const questions = [
     question: "Identify the slope of the equation y = 5x + 2",
     answer: "5"
   },
-  // Add more questions here
+  {
+    question: "Solve for x: 2x + 3 = 7",
+    answer: "2"
+  },
+  {
+    question: "Solve for y: 3y - 4 = 8",
+    answer: "4"
+  },
+  {
+    question: "Identify the slope of the equation y = 5x + 2",
+    answer: "5"
+  },
+  {
+    question: "Solve for x: x/2 - 5 = 3",
+    answer: "16"
+  },
+  {
+    question: "Solve for y: 4y + 6 = 2",
+    answer: "-1"
+  },
+  {
+    question: "What is the y-intercept of the equation y = 3x + 7?",
+    answer: "7"
+  },
+  {
+    question: "Solve for x: 5x + 15 = 0",
+    answer: "-3"
+  },
+  {
+    question: "Solve for y: 2y/3 = 8",
+    answer: "12"
+  },
+  {
+    question: "Identify the slope of the equation y = -2x + 5",
+    answer: "-2"
+  },
+  {
+    question: "Solve for x: 7x - 21 = 0",
+    answer: "3"
+  }
 ];
 
 let currentQuestionIndex = 0;
